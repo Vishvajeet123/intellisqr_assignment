@@ -182,17 +182,3 @@
     * React Query
     * fetch (for API requests)
     ```
-
-**Key Improvements in These READMEs**
-
-* **Clarity and Conciseness:** The instructions are clear and to the point.
-* **Detailed Setup:** They provide step-by-step guidance, including database setup for the backend.
-* **Code Structure Overview:** They explain the organization of the codebase, which is helpful for reviewers and other developers.
-* **Technology Stack:** They list the technologies used in each part of the application.
-* **API Endpoints:** The backend README explicitly documents the available API endpoints.
-* **Frontend-Backend Connection:** The frontend README emphasizes the importance of configuring the `API_URL` correctly.
-* **Error Handling Mention:** Both READMEs highlight the error handling implemented in the application.
-* **Adherence to Assignment:** They directly address the requirements of the assignment, such as TypeScript usage, Zod for validation, etc.
-* **Security Note:** The backend README includes a crucial reminder about not committing the `.env` file.
-
-These READMEs will make it much easier for someone to understand, set up, and run your application, which is a key part of the assignment evaluation.
